@@ -1,0 +1,1 @@
+#funciones en python internas
